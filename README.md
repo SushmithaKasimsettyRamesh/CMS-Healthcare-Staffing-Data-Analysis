@@ -141,18 +141,17 @@ Jupyter Notebooks
 CMS.gov public datasets
 
 Repository Structure
-bash
-Copy
-Edit
-├── notebooks/           # Individual analysis notebooks
-├── data/                # Processed datasets
-├── visualizations/      # Charts and plots
-└── requirements.txt     # Python dependencies
+
+notebooks/           - Individual analysis notebooks
+data/                - Processed datasets
+visualizations/      - Charts and plots
+requirements.txt     - Python dependencies
+
 Next Steps for Sales Leadership
-Begin outreach to the 341 high-dependency facilities
+1]Begin outreach to the 341 high-dependency facilities
 
-Launch weekend-focused contractor campaign
+2]Launch weekend-focused contractor campaign
 
-Roll out penalty reduction ROI calculators
+3]Roll out penalty reduction ROI calculators
 
-Initiate state-specific targeting for Texas, California, Washington, Mississippi, and Iowa
+4]Initiate state-specific targeting for Texas, California, Washington, Mississippi, and Iowa
