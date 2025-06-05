@@ -1,0 +1,46 @@
+erDiagram
+    PBJ_DATASET ||--o{ PENALTIES_DATASET : "has penalties"
+    
+    PBJ_DATASET {
+        string PROVNUM
+        string PROVNAME
+        string STATE
+        date WorkDate
+        int MDScensus
+        float Hrs_RN
+        float Hrs_LPN
+        float Hrs_CNA
+        float Hrs_RN_ctr
+        float Hrs_LPN_ctr
+        float Hrs_CNA_ctr
+    }
+    
+    PENALTIES_DATASET {
+        string CCN "CMS Certification Number"
+        float FineAmount
+        date PenaltyDate
+        string PenaltyType
+    }
+    
+    MERGED_ANALYSIS {
+        string PROVNUM
+        string PROVNAME
+        string STATE
+        float MDScensus_avg
+        float FineAmount_sum
+        int RecordCount
+        float Total_RN_Hours
+        float Total_LPN_Hours
+        float Total_CNA_Hours
+        float Contractor_RN_Hours
+        float Contractor_LPN_Hours
+        float Contractor_CNA_Hours
+        float Total_Hours
+        float Total_Contractor_Hours
+        float Contractor_Percentage
+        float Opportunity_Score
+        string Opportunity_Tier
+    }
+    
+    PBJ_DATASET ||--|| MERGED_ANALYSIS : generates
+    PENALTIES_DATASET ||--|| MERGED_ANALYSIS : contributes
