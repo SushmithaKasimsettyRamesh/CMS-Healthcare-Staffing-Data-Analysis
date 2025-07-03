@@ -1,7 +1,7 @@
-# CMS Nursing Home Staffing Analysis for Clipboard Health
+# CMS Nursing Home Staffing Analysis 
 
 ## Executive Summary
-Analysis of CMS Payroll Based Journal (PBJ) data to identify high-opportunity sales targets for Clipboard Health's staffing platform. This comprehensive analysis examines 2024Q2 data across multiple dimensions to provide actionable recommendations for the sales leadership team.
+Analysis of CMS Payroll Based Journal (PBJ) data to identify high-opportunity sales targets for Health's staffing platform. This comprehensive analysis examines 2024Q2 data across multiple dimensions to provide actionable recommendations for the sales leadership team.
 
 ## Key Findings Overview
 - **28.9M+ contractor hours** analyzed across all US nursing facilities
