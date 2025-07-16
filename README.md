@@ -12,7 +12,7 @@ Analysis of CMS Payroll Based Journal (PBJ) data to identify high-opportunity sa
 ---
 
 ## Recommendation 1: Target High Contractor Dependency Facilities
-### 🎯 **Immediate Action Required**
+### **Immediate Action Required**
 
 **Finding:** 341 facilities with average contractor dependency ratio of 43.8% (6× national average)
 
@@ -28,7 +28,7 @@ Analysis of CMS Payroll Based Journal (PBJ) data to identify high-opportunity sa
 ---
 
 ## Recommendation 2: Address Critical Weekend Staffing Gaps
-### ⏰ **Weekend Opportunity**
+### **Weekend Opportunity**
 
 **Finding:** Weekend staffing dramatically lower than weekdays:
 - RN weekend staffing: 60.4% of weekday levels
@@ -47,7 +47,7 @@ Analysis of CMS Payroll Based Journal (PBJ) data to identify high-opportunity sa
 ---
 
 ## Recommendation 3: Target High-Penalty, Low-Contractor Facilities
-### 💰 **ROI Opportunity**
+###  **ROI Opportunity**
 
 **Finding:** 1,043 facilities facing $7.15B in penalties with average contractor usage of only 0.22%
 
@@ -70,7 +70,7 @@ Analysis of CMS Payroll Based Journal (PBJ) data to identify high-opportunity sa
 ---
 
 ## Recommendation 4: Focus on High-Census, Low-Contractor Facilities
-### 📊 **Capacity Mismatch Targets**
+### **Capacity Mismatch Targets**
 
 **Finding:** Facilities with high resident census but underutilized contractor staffing
 
